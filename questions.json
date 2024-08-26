@@ -1,0 +1,230 @@
+{
+  "heading": "Multiplication of Fractions and practice reducing fractions to the lowest terms.",
+  "topics": [
+    {
+      "heading": "Multiplication of Fractions and practice reducing fractions to the lowest terms.",
+      "questions": [{
+        "questionNo": 1,
+        "question": "Luna enchanted a spell using 21/27 of her magic power. What is this fraction simplified to?",
+        "options": [
+            "6/9",
+            "7/9",
+            "5/9",
+            "8/9"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 2,
+        "question": "Merlin and Luna decided to brew a powerful potion using their newfound knowledge of fractions. They needed to mix 8/3 of a rare elixir with 5/7 of a mystical essence. Find what fraction of the total mixture they used.",
+        "options": [
+            "40/21",
+            "41/21",
+            "42/21",
+            "43/21"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 3,
+        "question": "Merlin and Luna needed to enhance their potion's effectiveness. They decided to multiply 31/17 of dragon scales with 41/15 of unicorn hair. What fraction of the total mixture does this represent?",
+        "options": [
+            "1272/255",
+            "1273/255",
+            "1274/255",
+            "1271/255"
+        ],
+        "answer": 3
+    },
+    {
+        "questionNo": 4,
+        "question": "Merlin mixed 8/3 of a potion with 9/5 of another. What is the resulting fraction?",
+        "options": [
+            "72/15",
+            "71/15",
+            "82/15",
+            "81/15"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 5,
+        "question": "Luna discovered 18/44 of a rare herb. What is this fraction reduced to?",
+        "options": [
+            "8/22",
+            "9/22",
+            "7/22",
+            "10/22"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 6,
+        "question": "Luna enchanted a shield using 95/50 of her power. What is this fraction simplified to?",
+        "options": [
+            "18/10",
+            "17/10",
+            "19/10",
+            "20/10"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 7,
+        "question": "Merlin cast a spell using 84/36 of his magic. What is this fraction simplified to?",
+        "options": [
+            "7/3",
+            "6/3",
+            "5/3",
+            "8/3"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 8,
+        "question": "Merlin and Luna are preparing another potion. They decided to mix 13/15 of unicorn hair with 17/19 of centaur tears. What fraction will they get on multiplying both potion?",
+        "options": [
+            "220/285",
+            "212/285",
+            "221/285",
+            "211/285"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 9,
+        "question": "Merlin and Luna brewed a healing potion using 48/56 of their magic herbs. What is this fraction reduced to?",
+        "options": [
+            "5/7",
+            "6/7",
+            "4/7",
+            "7/7"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 10,
+        "question": "Merlin mixed 65/95 of a potion. What is this fraction reduced to?",
+        "options": [
+            "13/19",
+            "14/19",
+            "13/18",
+            "14/18"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 11,
+        "question": "Luna created a charm using 30/17 of a starlight essence and 16/11 of a moonbeam essence. What fraction of the charm's power does this represent?",
+        "options": [
+            "481/187",
+            "482/187",
+            "480/187",
+            "483/187"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 12,
+        "question": "Luna enchanted a shield using 15/6 of her magic energy and 4/19 of her elemental power. What is the multiplication result of the enchanted shield's strength?",
+        "options": [
+            "13/19",
+            "9/19",
+            "11/19",
+            "10/19"
+        ],
+        "answer": 3
+    },
+    {
+        "questionNo": 13,
+        "question": "What is 15/19 times 15/14, a multiplication problem Merlin and Luna tackled?",
+        "options": [
+            "11/246",
+            "15/266",
+            "12/256",
+            "19/256"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 14,
+        "question": "What is the product of 47/19 and 5/10, as calculated by Merlin and Luna?",
+        "options": [
+            "46/38",
+            "47/38",
+            "49/38",
+            "45/38"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 15,
+        "question": "Merlin and Luna simplified 112/98 to its lowest terms. What is the simplified form?",
+        "options": [
+            "9/7",
+            "8/7",
+            "7/7",
+            "10/7"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 16,
+        "question": "Merlin and Luna brewed a potion using 50/90 of their magical ingredients. What is the resulting fraction of the potion's power?",
+        "options": [
+            "6/9",
+            "2/9",
+            "5/9",
+            "7/9"
+        ],
+        "answer": 2
+    },
+    {
+        "questionNo": 17,
+        "question": "What is 13/14 times 16/15, a spell Merlin and Luna mastered?",
+        "options": [
+            "104/105",
+            "103/105",
+            "101/105",
+            "102/105"
+        ],
+        "answer": 0
+    },
+    {
+        "questionNo": 18,
+        "question": "Merlin and Luna simplified 232/108 to its lowest terms. What is the simplified form?",
+        "options": [
+            "52/29",
+            "58/27",
+            "58/23",
+            "52/27"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 19,
+        "question": "What is 13/12 times 17/22, a multiplication challenge faced by Merlin and Luna?",
+        "options": [
+            "121/224",
+            "221/264",
+            "221/224",
+            "121/264"
+        ],
+        "answer": 1
+    },
+    {
+        "questionNo": 20,
+        "question": "What is 33/11 times 15/22, a fraction product that Merlin and Luna calculated?",
+        "options": [
+            "494/242",
+            "493/242",
+            "495/242",
+            "496/242"
+        ],
+        "answer": 2
+    }
+    ]
+    
+    }
+  ]
+}
